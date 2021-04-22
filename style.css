@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
+
+#horas {
+  font-size: 158px;
+
+  color: white;
+
+  font-weight: bold;
+
+  font-family: "Roboto Condensed", sans-serif;
+
+  opacity: 0.8;
+}
+
+body {
+  display: flex;
+
+  height: 100vh;
+
+  align-items: center;
+
+  justify-content: center;
+
+  background-color: #eec0c6;
+
+  background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);
+}
